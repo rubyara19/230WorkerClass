@@ -1,0 +1,13 @@
+Employee Type       ID   Last        First       Weekly Pay
+Salary Worker       123  Martha      Perez       1092.03   
+Hourly Worker       435  Joe         Smith       623.47    
+Commission Worker   356  Anthony     Mendez      2439.43   
+Hourly Worker       452  Jimmy       James       604.99    
+Hourly Worker       217  Fernando    Roman       470.05    
+Hourly Worker       765  Monica      Ramos       2549.41   
+Salary Worker       862  Oscar       McFly       1504.72   
+Hourly Worker       923  Jennifer    Acosta      573.32    
+Commission Worker   442  Randy       Moreno      1835.05   
+Salary Worker       213  Margaret    Philips     1546.65   
+Hourly Worker       324  Alma        Montes      3725      
+Commission Worker   884  Marco       Duarte      1839.5    
